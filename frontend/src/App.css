@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.form input {
+  margin: 5px;
+  padding: 8px;
+}
+
+.form button {
+  padding: 8px 12px;
+}
+
+.alumnos-list {
+  text-align: left;
+  margin: 20px auto;
+  width: 50%;
+}
